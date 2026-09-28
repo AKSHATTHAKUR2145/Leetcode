@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/AKSHATTHAKUR2145/Leetcode/tree/master/0704-binary-search) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/AKSHATTHAKUR2145/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## String
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/AKSHATTHAKUR2145/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AKSHATTHAKUR2145/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
